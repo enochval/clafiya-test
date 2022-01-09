@@ -22,7 +22,12 @@ DB_PASSWORD=
 5. Run ``php artisan passport:keys``
 
 
+6. Run ``php artisan passport:client --personal``
+
+
 ## Available APIs
+
+### Server BaseUrl [https://clafiya.nosvet.xyz](https://clafiya.nosvet.xyz)
 
 - ``/api/register - POST``
 
